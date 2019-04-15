@@ -1,0 +1,12 @@
+data:aaA aAa bAb aaa HHt Thh aaa ss baB Bab hht ttt ooo 000
+
+
+word=list(( ((input()).lower())).split())
+dct={}
+for g in word:
+  if g in dct:
+    dct[g]=dct[g]+1
+  else:
+    dct[g]=1
+for s in dct.keys():
+  print(s, dct[s])

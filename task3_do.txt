@@ -1,0 +1,8 @@
+Petrov;85;92;78
+Ivanov;100;88;94
+Zubov;58;72;85
+Gorbun;14;92;30
+lizun;53;92;99
+Pachkun;85;92;53
+Gorin;62;88;18
+tirion;81;32;48
